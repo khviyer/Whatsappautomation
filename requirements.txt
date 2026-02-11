@@ -1,0 +1,3 @@
+# Optional runtime dependencies if you expose this via API framework:
+# fastapi
+# uvicorn
